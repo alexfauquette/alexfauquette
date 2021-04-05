@@ -29,9 +29,9 @@ OpenFoodFact maintain a collaborative and open database of food products (the Wi
 
 # Professional
 
-Briefly, I studied Electrical engineering and machine learning at (Supélec)[https://www.centralesupelec.fr/], and at the (ENS-Paris-Saclay)[http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/].
+Briefly, I studied Electrical engineering and machine learning at [Supélec](https://www.centralesupelec.fr/), and at the [ENS-Paris-Saclay](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/).
 
-I worked in laboratories on probabilities and graphs ((LRI)[https://www.lri.fr/equipe.php?eq=26], (KTH)[https://people.kth.se/~alepro/], (EPFL)[https://indy.epfl.ch/]). And in a startup for web development (Theodo)[https://www.theodo.fr/theodo].
+I worked in laboratories on probabilities and graphs ([LRI](https://www.lri.fr/equipe.php?eq=26), [KTH](https://people.kth.se/~alepro/), [EPFL](https://indy.epfl.ch/)). And in a startup for web development at [Theodo](https://www.theodo.fr/theodo).
 
 # Contact :mailbox_with_mail:
 
