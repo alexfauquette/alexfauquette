@@ -13,7 +13,7 @@ This project is made with ReactJS, Redux, Material-UI, and some other lovely lib
   <img src="./img/tuto.png" height="150" /> 
 </p>
 
-## [joke-simulation](https://https://alexfauquette.github.io/joke-simulation/)
+## [joke-simulation](https://alexfauquette.github.io/joke-simulation/)
 
 The small one, allows you to perform simulations on fluid dynamics directly in your web browser. This project relies on [FreeFem++-js](https://www.ljll.math.upmc.fr/lehyaric/ffjs/), a Javascript version of [FreeFem++](https://freefem.org/). The FreeFem++ code is provided by [Thomas Rey](https://thomasrey.wordpress.com/).
 
